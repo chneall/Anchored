@@ -67,7 +67,7 @@ body {
   height: 180px;
   border-radius: 50%;
   background: radial-gradient(circle, rgba(255, 214, 150, 0.55), rgba(255, 170, 80, 0.15), transparent);
-  animation: candleFlicker 3s infinite ease-in-out;
+  animation: candleFlicker 6s infinite ease-in-out;
   filter: blur(18px);
   z-index: 1;
   top: -20px;
