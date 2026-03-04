@@ -8,7 +8,7 @@ function runSplash() {
 
     setTimeout(() => {
       splash.style.display = "none";
-    }, 1400);
+    }, 1000);
 
   }, 2600);
 }
@@ -20,7 +20,7 @@ window.onload = () => {
     splash.classList.add("fade-out");
     setTimeout(() => {
       splash.style.display = "none";
-    }, 1400);
+    }, 1000);
   }, 2600);
 };
 
